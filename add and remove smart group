@@ -1,0 +1,20 @@
+{
+    "event": {
+        "computer": false,
+        "groupAddedDevices": [],
+        "groupAddedDevicesIds":
+        [1,2,3,4,5],
+        "groupRemovedDevices": [],
+        "groupRemovedDevicesIds":
+        [6,7,8,9,10],
+        "jssid": 8,
+        "name": “test”,
+        "smartGroup": true
+    },
+    "webhook": {
+        "eventTimestamp": 1553550275590,
+        "id": 1,
+        "name": "Webhook Documentation",
+        "webhookEvent": "SmartGroupMobileDeviceMembershipChange"
+    }
+}
