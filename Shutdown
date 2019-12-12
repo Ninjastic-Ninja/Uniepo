@@ -1,0 +1,15 @@
+{
+    "event": {
+        "hostAddress": "172.31.16.70",
+        "institution": "Unisys",
+        "isClusterMaster": false,
+        "jssUrl": "https://unisysepo.jamfcloud.com/",
+        "webApplicationPath": "/usr/local/jss/tomcat/webapps/ROOT"
+    },
+    "webhook": {
+        "eventTimestamp": 1553550275590,
+        "id": 7,
+        "name": "Webhook Documentation",
+        "webhookEvent": "JSSShutdown"
+    }
+}
